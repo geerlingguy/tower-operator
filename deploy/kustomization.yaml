@@ -1,0 +1,9 @@
+
+namespace: tower-operator
+
+resources:
+- operator.yaml
+- role.yaml
+- role_binding.yaml
+- service_account.yaml
+- crds/tower_v1alpha1_tower_crd.yaml
