@@ -23,7 +23,7 @@ This Kubernetes Operator is meant to be deployed in your Kubernetes cluster(s) a
 
 First you need to deploy Tower Operator into your cluster:
 
-    kubectl apply -f https://raw.githubusercontent.com/geerlingguy/tower-operator/master/deploy/tower-operator.yaml
+    kubectl apply -k deploy/
 
 Then you can create instances of Tower, for example:
 

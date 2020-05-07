@@ -2,6 +2,7 @@
 namespace: tower-operator
 
 resources:
+- namespace.yaml
 - operator.yaml
 - role.yaml
 - role_binding.yaml
