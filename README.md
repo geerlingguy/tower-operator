@@ -38,6 +38,7 @@ Then you can create instances of Tower, for example:
        name: tower
        namespace: ansible-tower
      spec:
+       deployment_type: tower
        tower_hostname: tower.mycompany.com
        tower_secret_key: aabbcc
        
