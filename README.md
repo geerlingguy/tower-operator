@@ -1,5 +1,7 @@
 # Ansible Tower/AWX Operator
 
+**DEPRECATED**: This project was moved and renamed to: https://github.com/ansible/awx-operator
+
 [![Build Status](https://travis-ci.com/geerlingguy/tower-operator.svg?branch=master)](https://travis-ci.com/geerlingguy/tower-operator)
 
 An [Ansible Tower](https://www.ansible.com/products/tower) operator for Kubernetes built with [Operator SDK](https://github.com/operator-framework/operator-sdk) and Ansible.
